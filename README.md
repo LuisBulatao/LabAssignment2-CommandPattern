@@ -17,5 +17,5 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
 
-*UML Diagram
+UML Diagram
 ![SOFTENG](https://github.com/user-attachments/assets/84abf128-e375-47e9-b72c-ff85541f026f)
